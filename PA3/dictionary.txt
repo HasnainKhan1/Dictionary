@@ -1,0 +1,471 @@
+{"CHILOSTOMATOUS": "Of or pertaining to the Chilostoma."}
+{"LINGUISTICS": "The science of languages, or of the origin, signification, andapplication of words; glossology."}
+{"POSTEXISTENCE": "Subsequent existence."}
+{"EPENTHESIS": "The insertion of a letter or a sound in the body of a word; as,the b in \"nimble\" from AS. nemol."}
+{"PLASTERY": "Of the nature of plaster.The stone . . . is a poor plastery material. Clough."}
+{"JOHNNY": "A sculpin. [Local cant] Johny Crapaud (, a jocose designationof a Frenchman, or of the French people, collectively."}
+{"HONEYLESS": "Destitute of honey. Shak."}
+{"WALY": "An exclamation of grief. [Obs. or Prov. Eng. & Scot.]"}
+{"THUNDERCLOUD": "A cloud charged with electricity, and producing lightning andthunder."}
+{"EXPLAIN": "To give an explanation."}
+{"BRAZENNESS": "The quality or state of being brazen. Johnson."}
+{"DISCONTINUE": "To interrupt the continuance of; to intermit, as a practice orhabit; to put an end to; to cause to cease; to cease using, to stop;to leave off.Set up their conventicles again, which had been discontinued. Bp.Burnet.I have discontinued school Above a twelvemonth. Shak.Taught the Greek tongue, discontinued before in these parts the spaceof seven hundred years. Daniel.They modify and discriminate the voice, without appearing todiscontinue it. Holder."}
+{"HOCKHERB": "The mallow."}
+{"CHIRRUPY": "Cheerful; joyous; chatty."}
+{"ADFILIATION": "See Affiliation. [Obs.]"}
+{"EUCALYPTOL": "A volatile, terpenelike oil extracted from the eucalyptus, andconsisting largely of cymene."}
+{"WANNESS": "The quality or state of being wan; a sallow, dead, pale color;paleness; pallor; as, the wanness of the cheeks after a fever."}
+{"CONTRASTIMULANT": "Counteracting the effects of stimulants; relating to a courseof medical treatment based on a theory of contrastimulants.-- n. (Med.)"}
+{"PALL-MALL": "A game formerly common in England, in which a wooden ball wasdriven with a mallet through an elevated hoop or ring of iron. Thename was also given to the mallet used, to the place where the gamewas played, and to the street, in London, still called Pall Mall.[Written also pail-mail and pell-mell.] Sir K. Digby. Evelyn."}
+{"ABERUNCATOR": "A weeding machine."}
+{"COLLOCATION": "The act of placing; the state of being placed with somethingelse; disposition in place; arrangement.The choice and collocation of words. Sir W. Jones."}
+{"ABSORBEDLY": "In a manner as if wholly engrossed or engaged."}
+{"FURZELING": "An English warbler (Melizophilus provincialis); -- called alsofurze wren, and Dartford warbler."}
+{"OCCRUSTATE": "To incrust; to harden. [Obs.] Dr. H. More."}
+{"REFRIGERATE": "To cause to become cool; to make or keep cold or cool."}
+{"LASS": "A youth woman; a girl; a sweetheart."}
+{"BOULDERY": "Characterized by bowlders."}
+{"JETTISON": "The throwing overboard of goods from necessity, in order tolighten a vessel in danger of wreck."}
+{"OPAL": "A mineral consisting, like quartz, of silica, but inferior toquartz in hardness and specific gravity."}
+{"REGENERATORY": "Having power to renew; tending to reproduce; regenerating. G.S. Faber."}
+{"OPAH": "A large oceanic fish (Lampris quttatus), inhabiting theAtlantic Ocean. It is remarkable for its brilliant colors, which arered, green, and blue, with tints of purple and gold, covered withround silvery spots. Called also king of the herrings."}
+{"AGRAPPES": "Hooks and eyes for armor, etc. Fairholt."}
+{"MARGINALIA": "Marginal notes."}
+{"TOMBAC": "An alloy of copper and zinc, resembling brass, and containingabout 84 per cent of copper; -- called also German, or Dutch, brass.It is very malleable and ductile, and when beaten into thin leaves issometimes called Dutch metal. The addition of arsenic makes whitetombac. [Written also tombak, and tambac.]"}
+{"LIGAMENT": "Composing a ligament; of the nature of a ligament; binding; as,a strong ligamentous membrane."}
+{"TINTIE": "The wren. [Prov. Eng.]"}
+{"LASH": ",. v. i. To ply the whip; to strike; to uttercensure orsarcastic language.To laugh at follies, or to lash at vice. Dryden.To lash out, to strike out wildly or furiously."}
+{"APPELLANCY": "Capability of appeal."}
+{"INNUMEROUS": "Innumerable. [Archaic] Milton."}
+{"LASK": "A diarrhea or flux. [Obs.] Holland."}
+{"SYNCYTIUM": "Tissue in which the cell or partition walls are wholly wantingand the cell bodies fused together, so that the tissue consists of acontinuous mass of protoplasm in which nuclei are imbedded, as inordinary striped muscle."}
+{"GORMA": "The European cormorant."}
+{"INFORTUNE": "Misfortune. [Obs.] Chaucer."}
+{"SILKEN": "To render silken or silklike. Dyer."}
+{"POSTOBLONGATA": "The posterior part of the medulla oblongata. B. G. Wilder."}
+{"GOLD-HAMMER": "The yellow-hammer."}
+{"DISPOSITIVELY": "In a dispositive manner; by natural or moral disposition.[Obs.] Sir T. Browne.Do dispositively what Moses is recorded to have done literally, . . .break all the ten commandments at once. Boyle."}
+{"CROCOISITE": "Same as Crocoite."}
+{"AARD-VARK": "An edentate mammal, of the genus Orycteropus, somewhatresembling a pig, common in some parts of Southern Africa. It burrowsin the ground, and feeds entirely on ants, which it catches with itslong, slimy tongue."}
+{"ADDLINGS": "Earnings. [Prov. Eng.] Wright."}
+{"SIPHUNCULAR": "Of or pertaining to the siphuncle."}
+{"PYGMY": "One of a fabulous race of dwarfs who waged war with the cranes,and were destroyed."}
+{"EARTHDIN": "An earthquake. [Obs.]"}
+{"INTENIBLE": "Incapable of holding or containing. [Obs.]This captious and intenible sieve. Shak."}
+{"FILIATION": "The assignment of a bastard child to some one as its ather;affiliation. Smart."}
+{"GAITER": "To dress with gaiters."}
+{"ICHOROUS": "Of or like ichor; thin; watery; serous; sanious."}
+{"WATERMELON": "The very large ovoid or roundish fruit of a cucurbitaceousplant (Citrullus vulgaris) of many varieties; also, the plant itself.The fruit sometimes weighs many pounds; its pulp is usually pink incolor, and full of a sweet watery juice. It is a native of tropicalAfrica, but is now cultivated in many countries. See Illust. ofMelon."}
+{"PHOCACEAN": "Any species of Phoca; a seal."}
+{"THOROUGHLY": "In a thorough manner; fully; entirely; completely."}
+{"REVERSIONER": "One who has a reversion, or who is entitled to lands ortenements, after a particular estate granted is terminated.Blackstone."}
+{"DIES NON": "A day on which courts are not held, as Sunday or any legalholiday."}
+{"LIGHT-HEARTED": "Free from grief or anxiety; gay; cheerful; merry.-- Light\"-heart`ed*ly, adv.-- Light\"-heart\"ed*ness, n."}
+{"MISALLEGE": "To state erroneously."}
+{"WINTER": "To pass the winter; to hibernate; as, to winter in Florida.Because the haven was not commodious to winter in, the more partadvised to depart thence. Acts xxvii. 12."}
+{"SEPHARDIC": "Of, pertaining to, or designating, the Jews (the Sephardim,also called Spanish or Portuguese Jews) descended from Jewishfamilies driven from Spain by the Inquisition."}
+{"ADPRESS": "See Appressed.-- Ad*pressed\",, a."}
+{"WITHAL": "With; -- put after its object, at the end of sentence or clausein which it stands. [Obs.]This diamond he greets your wife withal. Shak.Whatsoever uncleanness it be that a man shall be defiled withal. Lev.v. 3."}
+{"CRUCIBLE STEEL": "Cast steel made by fusing in crucibles crude or scrap steel,wrought iron, and other ingredients and fluxes."}
+{"REDARGUTION": "The act of redarguing; refutation. [Obs. or R.] Bacon."}
+{"ALACRIOUSNESS": "Alacrity. [Obs.] Hammond."}
+{"SEPHARDIM": "Jews who are descendants of the former Jews of Spain andPortugal. They are as a rule darker than the northern Jews, and havemore delicate features."}
+{"SOPITION": "The act of putting to sleep, or the state of being put tosleep; sleep. [Obs.]Dementation and sopition of reason. Sir T. Browne."}
+{"TRAM": "A silk thread formed of two or more threads twisted together,used especially for the weft, or cross threads, of the best qualityof velvets and silk goods."}
+{"NEEDLER": "One who makes or uses needles; also, a dealer in needles. PiersPlowman."}
+{"ATOMICALLY": "In an atomic manner; in accordance with the atomic philosophy."}
+{"PHYTOLITHOLOGIST": "One versed in phytolithology; a paleobotanist."}
+{"ASTARBOARD": "Over to the starboard side; -- said of the tiller."}
+{"DISFLESH": "To reduce the flesh or obesity of. [Obs.] Shelton."}
+{"WINCE": "The act of one who winces."}
+{"WINCH": "To wince; to shrink; to kick with impatience or uneasiness."}
+{"FRETUM": "A strait, or arm of the sea."}
+{"LIMA": "The capital city of Peru, in South America. Lima bean. (Bot.)(a) A variety of climbing or pole bean (Phaseolus lunatus), which hasvery large flattish seeds. (b) The seed of this plant, much used forfood.-- Lima wood (Bot.), the beautiful dark wood of the South Americantree Csalpinia echinata."}
+{"BEGUINAGE": "A collection of small houses surrounded by a wall and occupiedby a community of Beguines."}
+{"MADID": "Wet; moist; as, a madid eye. [R.] Beaconsfield."}
+{"CAMERA OBSCURA": "An apparatus in which the image of an external object orobjects is, by means of lenses. thrown upon a sensitized plate orsurface placed at the back or an extensible darkened box or chambervariously modifled; -- commonly called simply the camera."}
+{"KISSINGCRUST": "The portion of the upper crust of a loaf which has touchedanother loaf in baking. Lamb.A massy fragment from the rich kissingcrust that hangs like a frettedcornice from the upper half of the loaf. W. Howitt."}
+{"LEPTUS": "The six-legged young, or larva, of certain mites; -- sometimesused as a generic name. See Harvest mite, under Harvest."}
+{"MADIA": "A genus of composite plants, of which one species (Madiasativa) is cultivated for the oil yielded from its seeds by pressure.This oil is sometimes used instead of olive oil for the table."}
+{"MONOTHALAMAN": "A foraminifer having but one chamber."}
+{"EXPLICATOR": "One who unfolds or explains; an expounder; an explainer."}
+{"MONOGENOUS": "Of or pertaining to monogenesis; as, monogenous, or asexual,reproduction."}
+{"DEMAND": "To call into court; to summon. Burrill."}
+{"CARAPATO": "A south American tick of the genus Amblyamma. There are severalspecies, very troublesome to man and beast."}
+{"INTELLECTUAL": "The intellect or understanding; mental powers or faculties.Her husband, for I view far round, not nigh, Whose higherintellectual more I shun. Milton.I kept her intellectuals in a state of exercise. De Quincey."}
+{"ACETYLENE": "A gaseous compound of carbon and hydrogen, in the proportion oftwo atoms of the former to two of the latter. It is a colorless gas,with a peculiar, unpleasant odor, and is produced for use as anilluminating gas in a number of ways, but chiefly by the action ofwater on calcium carbide. Its light is very brilliant. Watts."}
+{"PROPAGULUM": "A runner terminated by a germinating bud."}
+{"SAPODILLA": "A tall, evergeen, tropical American tree (Achras Sapota); also,its edible fruit, the sapodilla plum. [Written also sapadillo,sappadilo, sappodilla, and zapotilla.] Sapodilla plum (Bot.), thefruit of Achras Sapota. It is about the size of an ordinary quince,having a rough, brittle, dull brown rind, the flesh being of a dirtyyellowish white color, very soft, and deliciously sweet. Called alsonaseberry. It is eatable only when it begins to be spotted, and ismuch used in desserts."}
+{"TWIRL": "To move or turn round rapidly; to whirl round; to move and turnrapidly with the fingers.See ruddy maids, Some taught with dexterous hand to twirl the wheel.Dodsley.No more beneath soft eve's consenting star Fandango twirls his jocundcastanet. Byron."}
+{"VIRMILION": "See Vermilion. [R.]"}
+{"VACILLANT": "Vacillating; wavering; fluctuating; irresolute."}
+{"TWIRE": "A twisted filament; a thread. [Obs.] Locke."}
+{"MONITOR": "Any large Old World lizard of the genus Varanus; esp., theEgyptian species (V. Niloticus), which is useful because it devoursthe eggs and young of the crocodile. It is sometimes five or six feetlong."}
+{"UNPROVIDENT": "Improvident. [Obs.] \"Who for thyself art so unprovident.' Shak."}
+{"FRATERNIZE": "To associate or hold fellowship as brothers, or as men of likeoccupation or character; to have brotherly feelings."}
+{"IMBAND": "To form into a band or bands. \"Imbanded nations.\" J. Barlow."}
+{"RUBYTAIL": "A European gold wasp (Chrysis ignita) which has the under sideof the abdomen bright red, and the other parts deep bluish green witha metallic luster. The larva is parasitic in the nests of other waspsand of bees."}
+{"OSAR": "See 3d Os."}
+{"MINIMIZE": "To reduce to the smallest part or proportion possible; toreduce to a minimum. Bentham."}
+{"IMBANK": "To inclose or defend with a bank or banks. See Embank."}
+{"BIRR": "To make, or move with, a whirring noise, as of wheels inmotion."}
+{"RETROCEDENT": "Disposed or likely to retrocede; -- said of diseases which gofrom one part of the body to another, as the gout."}
+{"BIRT": "A fish of the turbot kind; the brill. [Written also burt, bret,or brut.] [Prov. Eng.]"}
+{"COPROLITE": "A piece of petrified dung; a fossil excrement."}
+{"SUFFRAGATOR": "One who assists or favors by his vote. [Obs.]"}
+{"VERDANCY": "The quality or state of being verdant."}
+{"BIRK": "A birch tree. [Prov. Eng.] \"The silver birk.\" Tennyson."}
+{"ACOUSTICALLY": "In relation to sound or to hearing. Tyndall."}
+{"PRONOUNCEABLE": "Capable of being pronounced."}
+{"ACETOPHENONE": "A crystalline ketone, CH3COC6H5, which may be obtained by thedry distillation of a mixture of the calcium salts of acetic andbenzoic acids. It is used as a hypnotic under the name of hypnone."}
+{"BEMA": "A platform from which speakers addressed an assembly. Mitford."}
+{"HILTED": "Having a hilt; -- used in composition; as, basket-hilted,cross-hilted."}
+{"NERVURE": "One of the nerves of leaves."}
+{"QUIRBOILLY": "Leather softened by boiling so as to take any required shape.Upon drying, it becomes exceedingly hard, and hence was formerly usedfor armor. [Obs.] \"His jambeux were of quyrboilly.\" Chaucer."}
+{"HYPOTRICHA": "A division of ciliated Infusoria in which the cilia cover onlythe under side of the body."}
+{"PETTISH": "Fretful; peevish; moody; capricious; inclined to ill temper. \"Apettish kind of humor.\" Sterne.-- Pet\"tish*ly, adv.-- Pet\"tish*ness, n."}
+{"UNITUDE": "Unity. [R.] H. Spenser."}
+{"MARTLEMAS": "See Martinmas. [Obs.]"}
+{"PLANISPHERIC": "Of or pertaining to a planisphere."}
+{"EIRE": "Air. [Obs.] Chaucer."}
+{"TRIUNE": "Being three in one; -- an epithet used to express the unity ofa trinity of persons in the Godhead."}
+{"ILIACAL": "Iliac. [R.]"}
+{"JIGGER": "A species of flea (Sarcopsylla, or Pulex, penetrans), whichburrows beneath the skin. See Chigoe."}
+{"SPY": "To gain sight of; to discover at a distance, or in a state ofconcealment; to espy; to see.One in reading, skipped over all sentences where he spied a note ofadmiration. Swift."}
+{"SAFE-KEEPING": "The act of keeping or preserving in safety from injury or fromescape; care; custody."}
+{"CRUET": "A vessel used to hold wine, oil, or water for the service ofthe altar. Cruet stand, a frame for holding cruets; a caster."}
+{"LENDABLE": "Such as can be lent. Sherwood."}
+{"CENSOR": "One of two magistrates of Rome who took a register of thenumber and property of citizens, and who also exercised the office ofinspector of morals and conduct."}
+{"TETTERWORT": "A plant used as a remedy for tetter, -- in England thecalendine, in America the bloodroot."}
+{"VINEYARDIST": "One who cultivates a vineyard."}
+{"GAMBADOES": "Same as Gamashes.His thin legs tenanted a pair of gambadoes fastened at the side withrusty clasps. Sir W. Scott."}
+{"BESCRIBBLE": "To scribble over. \"Bescribbled with impertinences.\" Milton."}
+{"CRUEL": "See Crewel."}
+{"CORDITE": "A smokeless powder composed of nitroglycerin, guncotton, andmineral jelly, and used by the British army and in other services. Inmaking it the ingredients are mixed into a paste with the addition ofacetone and pressed out into cords  (of various diameters) resemblingbrown twine, which are dried and cut to length. A variety containingless nitroglycerin than the original is known  as cordite M. D."}
+{"CORROBORATIVE": "Tending to strengthen of confirm."}
+{"VESTA": "One of the great divinities of the ancient Romans, identicalwith the Greek Hestia. She was a virgin, and the goddess of thehearth; hence, also, of the fire on it, and the family round it."}
+{"PEDESTALED": "Placed on, or supported by, a pedestal; figuratively, exalted.Hawthorne.Pedestaled haply in a palace court. Keats."}
+{"NATKA": "A species of shrike."}
+{"MEDIOSTAPEDIAL": "Pertaining to that part of the columella of the ear which, insome animals, connects the stapes with the other parts of thecolumella.-- n."}
+{"SO": "Provided that; on condition that; in case that; if.Though all the winds of doctrine were let loose play upon the earth,so truth be in the field, we do injuriously, by licensing andprohibiting, to misdoubt her strength. Milton."}
+{"INCAVERNED": "Inclosed or shut up as in a cavern. Drayton."}
+{"TOLLHOUSE": "A house occupied by a receiver of tolls."}
+{"UNILITERAL": "Consisting of one letter only; as, a uniliteral word or sign."}
+{"CLAVIGER": "One who carries the keys of any place."}
+{"MISDEAL": "To deal or distribute wrongly, as cards; to make a wrongdistribution."}
+{"PSYCHOPATHY": "Mental disease. See Psychosis, 2.-- Psy`cho*path\"ic, a.-- Psy*chop\"a*thist, n."}
+{"INDURATE": "To grow hard; to harden, or become hard; as, clay indurates bydrying, and by heat."}
+{"TELENERGY": "Display of force or energy at a distance, or without contact; -- applied to mediumistic phenomena. -- Tel`en*er\"gic (#), a."}
+{"UVIC": "Pertaining to, or obtained from, grapes; specifically,designating an organic acid, C7H8O3 (also called pyrotritartaricacid), obtained as a white crystalline substance by the decompositionof tartaric and pyrotartaric acids."}
+{"FORESLEEVE": "The sleeve below the elbow."}
+{"OVERHENT": "To overtake. [Obs.]So forth he went and soon them overhent. Spenser."}
+{"DVERGR": "A dwarf supposed to dwell in rocks and hills and to be skillfulin working metals."}
+{"TORPEDO BODY": "An automobile body which is built so that the side surfaces areflush. [Cant]"}
+{"DUNCERY": "Dullness; stupidity."}
+{"AMPHITHEATRICALLY": "In the form or manner of an amphitheater."}
+{"VIROSE": "Having a nauseous odor; fetid; poisonous. [R.]"}
+{"ASSEVERATIVE": "Characterized by asseveration; asserting positively."}
+{"AVISELY": "Advisedly. [Obs.] Chaucer."}
+{"MORAINIC": "Of or pertaining to a moranie."}
+{"ATTEMPERATE": "Tempered; proportioned; properly adapted.Hope must be . . . attemperate to the promise. Hammond."}
+{"BILLBOARD": "A piece of thick plank, armed with iron plates, and fixed onthe bow or fore channels of a vessel, for the bill or fluke of theanchor to rest on. Totten."}
+{"CYMATIUM": "A capping or crowning molding in classic architecture."}
+{"MONACHISM": "The system and influences of a monastic life; monasticism."}
+{"ERGO": "Therefore; consequently; -- often used in a jocular way. Shak."}
+{"LAWSUIT": "An action at law; a suit in equity or admiralty; any legalproceeding before a court for the enforcement of a claim."}
+{"SCINTILLOUSLY": "In a scintillant manner. [R.]"}
+{"TRUCKAGE": "The practice of bartering goods; exchange; barter; truck.The truckage of perishing coin. Milton."}
+{"ADENOLOGY": "The part of physiology that treats of the glands."}
+{"SPLENITIS": "Inflammation of the spleen."}
+{"SPARGER": "A vessel with a perforated cover, for sprinkling with a liquid;a sprinkler."}
+{"COUNTRY CLUB": "A club usually located in the suburbs or vicinity of a city ortown and devoted mainly to outdoor sports."}
+{"NEIGHBORLY": "Apropriate to the relation of neighbors; having frequent orfamiliar intercourse; kind; civil; social; friendly.-- adv."}
+{"KALAN": "The sea otter."}
+{"CHRYSOCHLORE": "A South African mole of the genus Chrysochloris; the goldenmole, the fur of which reflects brilliant metallic hues of green andgold."}
+{"ARCHAEOGRAPHY": "A description of, or a treatise on, antiquity or antiquities."}
+{"RIGHT-HANDEDNESS": "The state or quality of being right-handed; hence, skill;dexterity."}
+{"CONVOLVULACEOUS": "Of, pertaining to, or resembling, the family of plants of whichthe bindweed and the morning-glory are common examples."}
+{"EXCITE": "To call forth or increase the vital activity of an organism, orany of its parts."}
+{"RONCO": "See Croaker, n., 2. (a). [Texas]"}
+{"MOSSINESS": "The state of being mossy."}
+{"SOUPCON": "A suspicion; a suggestion; hence, a very small portion; ataste; as, coffee with a soupon of brandy; a soupon of coquetry."}
+{"LEGISLATIVELY": "In a legislative manner."}
+{"REATTAIN": "To attain again."}
+{"EXTIRPATION": "The act of extirpating or rooting out, or the state of beingextirpated; eradication; excision; total destruction; as, theextirpation of weeds from land, of evil from the heart, of a race ofmen, of heresy."}
+{"AVENOR": "See Avener. [Obs.]"}
+{"ANOMALOUSLY": "In an anomalous manner."}
+{"DARLING": "One dearly beloved; a favorite.And can do naught but wail her darling's loss. Shak."}
+{"BANAT": "The territory governed by a ban."}
+{"DOGMATIZER": "One who dogmatizes; a bold asserter; a magisterial teacher.Hammond."}
+{"INDICATRIX": "A certain conic section supposed to be drawn in the tangentplane to any surface, and used to determine the accidents ofcurvature of the surface at the point of contact. The curve issimilar to the intersection of the surface with a parallel to thetangent plane and indefinitely near it. It is an ellipse when thecurvature is synclastic, and an hyperbola when the curvature isanticlastic."}
+{"HETEROGAMY": "The process of fertilization in plants by an indirect orcircuitous method; -- opposed to orthogamy."}
+{"FROTERER": "One who frotes; one who rubs or chafes. [Obs.] Marston."}
+{"SOCAGER": "A tennant by socage; a socman."}
+{"BUTYLENE": "Any one of three metameric hydrocarbons, C4H8, of the ethyleneseries. They are gaseous or easily liquefiable."}
+{"LESBIAN LOVE": "See Lesbianism."}
+{"LOFTILY": "In a lofty manner or position; haughtily."}
+{"PERIGANGLIONIC": "Surrounding a ganglion; as, the periganglionic glands of thefrog."}
+{"CALIGATION": "Dimness; cloudiness. [R.] Sir T. Browne."}
+{"PERCIFORM": "Pertaining to the Perciformes."}
+{"MASTICATER": "One who masticates."}
+{"MEMBER": "To remember; to cause to remember; to mention. [Obs.]"}
+{"PROGENITORSHIP": "The state of being a progenitor."}
+{"PECAN": "A species of hickory (Carya olivformis), growing in NorthAmerica, chiefly in the Mississippi valley and in Texas, where it isone of the largest of forest trees; also, its fruit, a smooth, oblongnut, an inch or an inch and a half long, with a thin shell and well-flavored meat. [Written also pacane.]"}
+{"CYMENOL": "See Carvacrol."}
+{"CALIBRATE": "To ascertain the caliber of, as of a thermometer tube; also,more generally, to determine or rectify the graduation of, as of thevarious standards or graduated instruments."}
+{"OVERGREATNESS": "Excessive greatness."}
+{"SELACHII": "An order of elasmobranchs including the sharks and rays; thePlagiostomi. Called also Selacha, Selache, and Selachoidei."}
+{"HETEROGENETIC": "Relating to heterogenesis; as, heterogenetic transformations."}
+{"UROPYGIUM": "The prominence at the posterior extremity of a bird's body,which supports the feathers of the tail; the rump; -- sometimescalled pope's nose."}
+{"HERPETOLOGY": "The natural history of reptiles; that branch of zology whichrelates to reptiles, including their structure, classification, andhabits."}
+{"NUSTLE": "To fondle; to cherish. [Obs.]"}
+{"PAGURIAN": "Any one of a tribe of anomuran crustaceans, of which Pagurus isa type; the hermit crab. See Hermit crab, under Hermit."}
+{"OBSOLESCENCE": "The state of becoming obsolete."}
+{"HEADSTALL": "That part of a bridle or halter which encompasses the head.Shak."}
+{"DISULPHIDE": "A binary compound of sulphur containing two atoms of sulphur ineach molecule; -- formerly called disulphuret. Cf. Bisulphide."}
+{"WAYFARER": "One who travels; a traveler; a passenger."}
+{"NIGHTISH": "Of or pertaining to night."}
+{"EXCALFACTIVE": "Serving to heat; warming. [Obs.] Cotgrave."}
+{"ABSOLUTENESS": "The quality of being absolute; independence of everythingextraneous; unlimitedness; absolute power; independent reality;positiveness."}
+{"UNITE": "United; joint; as, unite consent. [Obs.] J. Webster."}
+{"EGOITY": "Personality. [R.] Swift."}
+{"CORRUPTIVE": "Having the quality of taining or vitiating; tending to producecorruption.It should be endued with some corruptive quality for so speedy adissolution of the meat. Ray."}
+{"UNITY": "Any definite quantity, or aggregate of quantities or magnitudestaken as one, or for which 1 is made to stand in calculation; thus,in a table of natural sines, the radius of the circle is regarded asunity."}
+{"RACEABOUT": "A small sloop-rigged racing yacht carrying about six hundredsquare feet of sail, distinguished from a knockabout by having ashort bowsprit."}
+{"CARPOPHAGOUS": "Living on fruits; fruit-consuming."}
+{"QUARRY-FACED": "Having a face left as it comes from the quarry and not smoothedwith the chisel or point; -- said of stones."}
+{"INCONFORMITY": "Want of conformity; nonconformity. [Obs.]"}
+{"ITCHY": "Infected with the itch, or with an itching sensation. Cowper."}
+{"STRIVING": "from Strive.-- Striv\"ing*ly, adv."}
+{"HIPPOCRENE": "A fountain on Mount Helicon in Boeotia, fabled to have burstforth when the ground was struck by the hoof of Pegasus. Also, itswaters, which were supposed to impart poetic inspiration. Keats.Nor maddening draughts of Hippocrene. Longfellow."}
+{"DESPICIENCY": "A looking down; despection. [Obs.]"}
+{"FELSTONE": "See Felsite."}
+{"EPISTEMOLOGY": "The theory or science of the method or grounds of knowledge."}
+{"PARAGENESIS": "The science which treats of minerals with special reference totheir origin."}
+{"SEMIOXYGENATED": "Combined with oxygen only in part. Kirwan."}
+{"ATMOLYZER": "An apparatus for effecting atmolysis."}
+{"UNHEART": "To cause to lose heart; to dishearten. [Obs.] Shak."}
+{"PASTURELESS": "Destitute of pasture. Milton."}
+{"SUREMENT": "A making sure; surety. [Obs.]Every surement and every bond. Chaucer."}
+{"APPROBATIVE": "Approving, or implying approbation. Milner."}
+{"COPESMATE": "An associate or companion; a friend; a partner. [Obs.]Misshapen time, copesmate of ugly Night. Shak."}
+{"CHICKWEED": "The name of several caryophyllaseous weeds, especiallyStellaria media, the seeds and flower buds of which are a favoritefood of small birds."}
+{"BIPLICATE": "Twice folded together. Henslow."}
+{"RENDERING": "The act of one who renders, or that which is rendered.Specifically: (a) A version; translation; as, the rendering of theHebrew text. Lowth. (b) In art, the presentation, expression, orinterpretation of an idea, theme, or part. (c) The act of laying thefirst coat of plaster on brickwork or stonework. (d) The coat ofplaster thus laid on. Gwilt. (e) The process of trying out orextracting lard, tallow, etc., from animal fat."}
+{"BEAUTIFY": "To make or render beautiful; to add beauty to; to adorn; todeck; to grace; to embellish.The arts that beautify and polish life. Burke."}
+{"CHEROOT": "A kind of cigar, originally brought from Mania, in thePhilippine Islands; now often made of inferior or adulteratedtabacco."}
+{"WAVER": "A sapling left standing in a fallen wood. [Prov. Eng.]Halliwell."}
+{"CYGNUS": "A constellation of the northern hemisphere east of, orfollowing, Lyra; the Swan."}
+{"RESOUN": "Reason. [Obs.] Chaucer."}
+{"EVOCATIVE": "Calling forth; serving to evoke; developing.Evocative power over all that is eloquent and expressive in thebetter soul of man. W. Pater."}
+{"WAVEY": "The snow goose. [Canadian, & Local U. S.]"}
+{"UNDERVALUER": "One who undervalues."}
+{"SPALTING KNIFE": "A knife used in splitting codfish. [Written also spaldingknife.]"}
+{"SKULLCAP": "Any plant of the labiate genus Scutellaria, the calyx of whoseflower appears, when inverted, like a helmet with the visor raised."}
+{"UNAMIABILITY": "The quality or state of being unamiable; moroseness."}
+{"THRUMMY": "Like thrums; made of, furnished with, or characterized by,thrums. Dampier.On her head thrummy cap she had. Chalkhill."}
+{"SET-FAIR": "In plastering, a particularly good troweled surface. Knight."}
+{"PINTLE": "An upright pivot pin; as:(a) The pivot pin of a hinge.(b) A hook or pin on which a rudder hangs and turns.(c) A pivot about which the chassis swings, in some kinds of guncarriages.(d) A kingbolt of a wagon."}
+{"BLOWTUBE": "A long wrought iron tube, on the end of which the workmangathers a quantity of \"metal\" (melted glass), and through which heblows to expand or shape it; -- called also blowing tube, andblowpipe."}
+{"ASTATIZE": "To render astatic."}
+{"ASPERSOIR": "An aspergill."}
+{"STILL-HUNT": "A hunting for game in a quiet and cautious manner, or undercover; stalking; hence, colloquially, the pursuit of any objectquietly and cautiously.-- Still\"-hunt`er, n.-- Still\"-hunt`ing, n. [U.S.]"}
+{"BRUTISM": "The nature or characteristic qualities or actions of a brute;extreme stupidity, or beastly vulgarity."}
+{"TETRAPTERAN": "An insect having four wings."}
+{"RIDDLER": "One who riddles (grain, sand, etc.)."}
+{"REMANDMENT": "A remand."}
+{"PRAIRIE STATE": "Illinois; -- a nickname."}
+{"PHONOGRAPHIST": "Phonographer."}
+{"RADIAL ENGINE": "An engine, usually an internal-combustion engine of a certaintype (the radial type) having several cylinders arranged radiallylike the spokes of a complete wheel. The semiradial engine hasradiating cylinders on only one side of the crank shaft."}
+{"OSSICLE": "One of numerous small calcareous structures forming theskeleton of certain echinoderms, as the starfishes."}
+{"EPICARP": "The external or outermost layer of a fructified or ripenedovary. See Illust. under Endocarp."}
+{"CASCARILLA": "A euphorbiaceous West Indian shrub (Croton Eleutheria); also,its aromatic bark. Cascarilla bark (or Cascarila) (Med.), the bark ofCroton Eleutheria. It has an aromatic odor and a warm, spicy, bittertaste, and when burnt emits a musky odor. It is used as a gentletonic, and sometimes, for the sake of its fragrance, mixed withsmoking tobacco, when it is said to occasion vertigo andintoxication."}
+{"GUIPURE": "A term used for lace of different kinds; most properly for alace of large pattern and heavy material which has no ground or mesh,but has the pattern held together by connecting threads called barsor brides."}
+{"LO": "Look; see; behold; observe. \" Lo, here is Christ.\" Matt. xxiv.23. \" Lo, we turn to the Gentiles.\" Acts xiii. 46."}
+{"LACTUCARIUM": "The inspissated juice of the common lettuce, sometimes used asa substitute for opium."}
+{"LOGGED": "Made slow and heavy in movement; water-logged. Beaconsfield."}
+{"MUTILATION": "The act of mutilating, or the state of being mutilated;deprivation of a limb or of an essential part."}
+{"DISCRETE": "Separate; not coalescent; -- said of things usually coalescent.Discrete movement. See Concrete movement of the voice, underConcrete, a.-- Discrete proportion, proportion where the ratio of the means isdifferent from that of either couplet; as, 3:6::8:16, 3 bearing thesame proportion to 6 as 8 does to 16. But 3 is not to 6 as 6 to 8. Itis thus opposed to continued or continual proportion; as, 3:6::12:24.-- Discrete quantity, that which must be divided into units, asnumber, and is opposed to continued quantity, as duration, orextension."}
+{"LU": "See Loo."}
+{"DODMAN": "Any shellfish which casts its shell, as a lobster. [Prov. Eng.]"}
+{"COLUGO": "A peculiar East Indian mammal (Galleopithecus volans), havingalong the sides, connecting the fore and hind limbs, a parachutelikemembrane, by means of which it is able to make long leaps, like theflying squirrel; -- called also flying lemur."}
+{"ODOROUS": "Having or emitting an odor or scent, esp. a sweet odor;fragrant; sweet-smelling. \"Odorous bloom.\" Keble.Such fragrant flowers do give most odorous smell. Spenser.-- O\"dor*ous*ly, adv.-- O\"dor*ous*ness, n."}
+{"ASTROPHOTOMETRY": "The determination of the brightness of stars, and also of thesun, moon, and planets. --As`tro*pho`to*met\"ric*al (#), a."}
+{"EPIGASTRIAL": "Epigastric."}
+{"ELUCUBRATION": "See Lucubration. [Obs.] Evelyn."}
+{"HAYRACK": "A frame mounted on the running gear of a wagon, and used inhauling hay, straw, sheaves, etc.; -- called also hay rigging."}
+{"FLAGSTAFF": "A staff on which a flag is hoisted."}
+{"YAKOOTS": "(Ethnol.) A nomadic Mongolian tribe native of Northern Siberia,and supposed to be of Turkish stock. They are mainly pastoral intheir habits. [Written also Yakuts.]"}
+{"FOOT TON": "A unit of energy or work, being equal to the work done inraising one ton against the force of gravity through the height ofone foot."}
+{"VEGETO-ANIMAL": "Partaking of the nature both of vegetable and animal matter; --a term sometimes applied to vegetable albumen and gluten, from theirresemblance to similar animal products."}
+{"RESERVEE": "One to, or for, whom anything is reserved; -- contrasted withreservor."}
+{"TERN": "Any one of numerous species of long-winged aquatic birds,allied to the gulls, and belonging to Sterna and various alliedgenera."}
+{"SOFT-HEARTED": "Having softness or tenderness of heart; susceptible of pity orother kindly affection; gentle; meek.-- Soft\"-heart`ed*ness, n."}
+{"REAVER": "One who reaves. [Archaic]"}
+{"SEGNO": "A sign. See Al segno, and Dal segno."}
+{"SIFFLEMENT": "The act of whistling or hissing; a whistling sound; sibilation.[Obs.] A. Brewer."}
+{"BRACHYLOGY": "Conciseness of expression; brevity."}
+{"ANTHRACOMETRIC": "Of or pertaining to an anthracometer."}
+{"BOOSE": "A stall or a crib for an ox, cow, or other animal. [Prov. Eng.]Halliwell."}
+{"TALEBEARING": "Telling tales officiously."}
+{"HEAT": "Heated; as, the iron though heat red-hot. [Obs. or Archaic.]Shak."}
+{"DOGWATCH": "A half watch; a watch of two hours, of which there are two, thefirst dogwatch from 4 to 6 o'clock, p.m., and the second dogwatchfrom 6 to 8 o'clock, P. M. Totten."}
+{"ANAEMIA": "A morbid condition in which the blood is deficient in qualityor in quantity."}
+{"ANAEMIC": "Of or pertaining to anmia."}
+{"CONFERVOUS": "Pertaining to confervae; consisting of, or resembling, theconfervae.Yon exiguous pool's confervous scum. O. W. Holmes."}
+{"FOUND": "imp. & p. p. of Find."}
+{"HIBERNACULUM": "A winter bud, in which the rudimentary foliage or flower, as ofmost trees and shrubs in the temperate zone, is protected by closelyoverlapping scales."}
+{"AIR BRAKE": "A railway brake operated by condensed air. Knight."}
+{"ATTEMPERATION": "The act of attempering or regulating. [Archaic] Bacon."}
+{"AFFORESTATION": "The act of converting into forest or woodland. Blackstone."}
+{"SMEGMA": "The matter secreted by any of the sebaceous glands.Specifically:(a) The soapy substance covering the skin of newborn infants.(b) The cheesy, sebaceous matter which collects between the glanspenis and the foreskin."}
+{"WINDORE": "A window. [Obs.] Hudibras."}
+{"NOTTURNO": "Same as Nocturne."}
+{"LOOSE": "To set sail. [Obs.] Acts xiii. 13."}
+{"GUENON": "One of several long-tailed Oriental monkeys, of the genusCercocebus, as the green monkey and grivet."}
+{"PRETERVECTION": "The act of carrying past or beyond. [R.] Abp. Potter."}
+{"KICKABLE": "Capable or deserving of being kicked. \"A kickable boy.\" G.Eliot."}
+{"TORMENT": "An engine for casting stones. [Obs.] Sir T. Elyot."}
+{"SOAPSTONE": "See Steatite, and Talc."}
+{"OBLATE": "Flattened or depressed at the poles; as, the earth is an oblatespheroid."}
+{"CLAWLESS": "Destitute of claws."}
+{"DOGMATIZE": "To assert positively; to teach magisterially or with bold andundue confidence; to advance with arrogance.The pride of dogmatizing schools. Blackmore."}
+{"MARGINED": "Bordered with a distinct line of color."}
+{"ENDOPODITE": "The internal or principal branch of the locomotive appendagesof Crustacea. See Maxilliped."}
+{"PILOT WHEEL": "A wheel, usually with radial handles projecting from the rim,for traversing the saddle of a machine tool, esp. an automaticmachine tool, by hand."}
+{"MOABITE": "One of the posterity of Moab, the son of Lot. (Gen. xix. 37.)Also used adjectively."}
+{"PLASMODIUM": "A jellylike mass of free protoplasm, without any union ofamoeboid cells, and endowed with life and power of motion."}
+{"BEDDING": "The state or position of beds and layers."}
+{"PLEBEIANIZE": "To render plebeian, common, or vulgar."}
+{"REANIMATE": "To animate anew; to restore to animation or life; to infuse newlife, vigor, spirit, or courage into; to revive; to reinvigorate; as,to reanimate a drowned person; to reanimate disheartened troops; toreanimate languid spirits. Glanvill."}
+{"TORSIBILLTY": "The tendency, as of a rope, to untwist after being twisted."}
+{"MEROISTIC": "Applied to the ovaries of insects when they secretevitelligenous cells, as well as ova."}
+{"THEBAIC": "Of or pertaining to Thebes in Egypt; specifically, designatinga version of the Bible preserved by the Copts, and esteemed of greatvalue by biblical scholars. This version is also called the Sahidicversion."}
+{"TED": "To spread, or turn from the swath, and scatter for drying, asnew-mowed grass; -- chiefly used in the past participle.The smell of grain or tedded grass. Milton.The tedded hay and corn sheaved in one field. Coleridge."}
+{"SIMITAR": "See Scimiter."}
+{"PENTAGLOT": "A work in five different tongues."}
+{"THEBAID": "A Latin epic poem by Statius about Thebes in Boeotia."}
+{"CONTAIN": "To restrain desire; to live in continence or chastity.But if they can not contain, let them marry. 1 Cor. vii. 9."}
+{"REGRATER": "One who regrates."}
+{"GLISTER": "To be bright; to sparkle; to be brilliant; to shine; toglisten; to glitter.All that glisters is not gold. Shak."}
+{"EVERMORE": "During eternity; always; forever; for an indefinite period; atall times; -- often used substantively with for.Seek the Lord . . . Seek his face evermore. Ps. cv. 4.And, behold, I am alive for evermore. Rev. i. 18.Which flow from the presence of God for evermore. Tillotson.I evermore did love you, Hermia. Shak."}
+{"FUROIN": "A colorless, crystalline substance, C10H8O4, from furfurol."}
+{"SOVEREIGNTY": "The quality or state of being sovereign, or of being asovereign; the exercise of, or right to exercise, supreme power;dominion; sway; supremacy; independence; also, that which issovereign; a sovereign state; as, Italy was formerly divided intomany sovereignties.Woman desiren to have sovereignty As well over their husband as overtheir love. Chaucer."}
+{"AREFACTION": "The act of drying, or the state of growing dry.The arefaction of the earth. Sir M. Hale."}
+{"SHORT-CIRCUIT": "To join, as the electrodes of a battery or dynamo or any twopoints of a circuit, by a conductor of low resistance."}
+{"CAPELIN": "A small marine fish (Mallotus villosus) of the familySalmonid, very abundant on the coasts of Greenland, Iceland,Newfoundland, and Alaska. It is used as a bait for the cod. [Writtenalso capelan and caplin.]"}
+{"KRUPP GUN": ". A breech-loading steel cannon manufactured at the works ofFriedrich Krupp, at Essen in Prussia. Guns of over eight-inch boreare made up of several concentric cylinders; those of a smaller sizeare forged solid. Knight."}
+{"WOUNDWORT": "Any one of certain plants whose soft, downy leaves have beenused for dressing wounds, as the kidney vetch, and several species ofthe labiate genus Stachys."}
+{"CONTROVERTIBLE": "Capable of being controverted; disputable; admitting ofquestion.-- Con`tro*ver\"ti*bly, adv."}
+{"ATTITUDINARIANISM": "A practicing of attitudes; posture making."}
+{"HYPERBOLIST": "One who uses hyperboles."}
+{"BOOST": "To lift or push from behind (one who is endeavoring to climb);to push up; hence, to assist in overcoming obstacles, or in makingadvancement. [Colloq. U. S.]"}
+{"FLATOUR": "A flatterer. [Obs.] Chaucer."}
+{"DIATHERMANISM": "The doctrine or the phenomena of the transmission of radiantheat. Nichol."}
+{"INFLUENCE": "Induction."}
+{"AFFRIGHTFUL": "Terrifying; frightful.-- Af*fright\"ful*ly, adv. [Archaic]Bugbears or affrightful apparitions. Cudworth."}
+{"WRASSE": "Any one of numerous edible, marine, spiny-finned fishes of thegenus Labrus, of which several species are found in the Mediterraneanand on the Atlantic coast of Europe. Many of the species are bright-colored."}
+{"ADUMBRATION": "The shadow or outlines of a figure."}
+{"AUGUSTNESS": "The quality of being august; dignity of mien; grandeur;magnificence."}
+{"HYPERBOLISM": "The use of hyperbole. Jefferson."}
+{"AMOEBA": "A rhizopod. common in fresh water, capable of undergoing manychanges of form at will. See Rhizopoda."}
+{"HIBERNAL": "Belonging or relating to winter; wintry; winterish. Sir T.Browne."}
+{"APORETICAL": "Doubting; skeptical. [Obs.] Cudworth."}
+{"LUSSHEBURGH": "A spurious coin of light weight imported into England fromLuxemburg, or Lussheburgh, as it was formerly called. [Obs.]God wot, no Lussheburghes payen ye. Chaucer."}
+{"WHOMSOEVER": "The objective of whosoever. See Whosoever.The Most High ruleth in the kingdow of men, and giveth it towhomsoever he will. Dan. iv. 17."}
+{"BIGEYE": "A fish of the genus Priacanthus, remarkable for the large sizeof the eye."}
+{"CATOPTRICS": "That part of optics which explants the properties and phenomenaof reflected light, and particularly that which is reflected frommirrors or polished bodies; --- formerly caled anacamptics."}
+{"GANGLION": "A globular, hard, indolent tumor, situated somewhere on atendon, and commonly formed by the effusion of a viscid fluid intoit; -- called also weeping sinew. Ganglion cell, a nerve cell. SeeIllust. under Bipolar."}
+{"MENSE": "Manliness; dignity; comeliness; civility. [Prov. Eng. & Scot.]-- Mense\"ful, a.-- Mense\"less, a."}
+{"SHAKER": "A variety of pigeon. P. J. Selby."}
+{"AERIFORM": "Having the form or nature of air, or of an elastic fluid;gaseous. Hence fig.: Unreal."}
+{"EYELID": "The cover of the eye; that portion of movable skin with whichan animal covers or uncovers the eyeball at pleasure."}
+{"HYDRIODATE": "Same as Hydriodide."}
+{"RADIOCONDUCTOR": "A substance or device that has its conductivity altered in someway by electric waves, as a coherer."}
+{"UNWIELDY": "Not easily wielded or carried; unmanageable; bulky; ponderous.\"A fat, unwieldy body of fifty-eight years old.\" Clarendon.-- Un*wield\"i*ly, adv.-- Un*wield\"i*ness, n."}
+{"BEMEET": "To meet. [Obs.]Our very loving sister, well bemet. Shak."}
+{"CODPIECE": "A part of male dress in front of the breeches, formerly madevery conspicuous. Shak. Fosbroke."}
+{"SELFISHLY": "In a selfish manner; with regard to private interest only orchiefly."}
+{"OUTVIE": "To exceed in vying. Dryden."}
+{"POLITE": "To polish; to refine; to render polite. [Obs.] Ray."}
+{"HIGH": "To hie. [Obs.]Men must high them apace, and make haste. Holland."}
+{"ORTHOMETRY": "The art or practice of constructing verses correctly; the lawsof correct versification."}
+{"PUNCTUALNESS": "Punctuality; exactness."}
+{"SMALLAGE": "A biennial umbelliferous plant (Apium graveolens) native of theseacoats of Europe and Asia. When deprived of its acrid and evenpoisonous properties by cultivation, it becomes celery."}
+{"JINGLE": "To cause to give a sharp metallic sound as a little bell, or ascoins shaken together; to tinkle.The bells she jingled, and the whistle blew. Pope."}
+{"LOSING": "Given to flattery or deceit; flattering; cozening. [Obs.]Amongst the many simoniacal that swarmed in the land, Herbert, Bishopof Thetford, must not be forgotten; nick-named Losing, that is, theFratterer. Fuller."}
+{"CORNAMUTE": "A cornemuse. [Obs.]"}
+{"GLACIAL": "Resembling ice; having the appearance and consistency of ice; -- said of certain solid compounds; as, glacial phosphoric or aceticacids. Glacial acid (Chem.), an acid of such strength or purity as tocrystallize at an ordinary temperature, in an icelike form; as aceticor carbolic acid.-- Glacial drift (Geol.), earth and rocks which have beentransported by moving ice, land ice, or icebergs; bowlder drift.-- Glacial epoch or period (Geol.), a period during which theclimate of the modern temperate regions was polar, and ice coveredlarge portions of the northern hemisphere to the mountain tops.-- Glacial theory or hypothesis. (Geol.) See Glacier theory, underGlacier."}
+{"MODERNISM": "Modern practice; a thing of recent date; esp., a modern usageor mode of expression."}
+{"REVERSER": "One who reverses."}
+{"PRESERVATORY": "Preservative. Bp. Hall."}
+{"LOBED": "Having lobes; lobate."}
+{"APPROACHABLE": "Capable of being approached; accessible; as, approachablevirtue."}
+{"SORTILEGIOUS": "Pertaining to sortilege."}
+{"SADDLE": "A block of wood, usually fastened to some spar, and shaped toreceive the end of another spar."}
+{"COOLER": "That which cools, or abates heat or excitement.if acid things were used only as coolers, they would not be so properin this case. Arbuthnot."}
+{"MAKING-IRON": "A tool somewhat like a chisel with a groove in it, used bycalkers of ships to finish the seams after the oakum has been drivenin."}
+{"SYNCHYSIS": "A derangement or confusion of any kind, as of words in asentence, or of humors in the eye. Sparkling synchysis (Med.), acondition in which the vitreous humor is softened and containssparkling scales of cholesterin."}
+{"DEGAGE": "Unconstrained; easy; free. Vanbrugh."}
+{"SCHNAPPS": "Holland gin. [U.S.]"}
+{"TRANSFEROGRAPHY": "The act or process of copying inscriptions, or the like, bymaking transfers."}
+{"TORPESCENCE": "The quality or state or being torpescent; torpidness; numbness;stupidity."}
+{"AUREATE": "Golden; gilded. Skelton."}
+{"CORROBORANT": "Strengthening; supporting; corroborating. Bacon.-- n."}
+{"VIVIFICATIVE": "Able or tending to vivify, animate, or give life; vivifying."}
+{"ECCE HOMO": "A picture which represents the Savior as given up to the peopleby Pilate, and wearing a crown of thorns."}
+{"ZIF": "The second month of the Jewish ecclesiastical year,corresponding to our May."}
+{"INTERVIEWER": "One who interviews; especially, one who obtains an interviewwith another for the purpose of eliciting his opinions or obtaininginformation for publication.It would have made him the prince of interviewers in these days.Leslie Stephen."}
+{"NORWEGIUM": "A rare metallic element, of doubtful identification, said tooccur in the copper-nickel of Norway."}
+{"TECHNIPHONE": "A dumb gymnastic apparatus for training the hands of pianistsand organists, as to a legato touch."}
+{"BACKSTAY": "A rope or stay extending from the masthead to the side of aship, slanting a little aft, to assist the shrouds in supporting themast. [ Often used in the plural.]"}
+{"FICUS": "A genus of trees or shrubs, one species of which (F. Carica)produces the figs of commerce; the fig tree."}
+{"SCLEROTITIS": "Inflammation of the sclerotic coat."}
+{"FUNDUS": "The bottom or base of any hollow organ; as, the fundus of thebladder; the fundus of the eye."}
+{"AUTOMORPHISM": "Automorphic characterization. H. Spenser."}
+{"WEATHERED": "Made sloping, so as to throw off water; as, a weathered corniceor window sill."}
+{"LUNULAR": "Having a form like that of the new moon; shaped like acrescent."}
+{"UNTREATABLE": "Incapable of being treated; not practicable. [R.] Dr. H. More."}
+{"SELF-COMMUNE": "Self-communion. [R.]"}
+{"PRETERLEGAL": "Exceeding the limits of law. [R.]"}
+{"ANTAPHRODITIC": "An antaphroditic medicine."}
+{"ONERARY": "Fitted for, or carrying, a burden. Johnson."}
+{"BANDOG": "A mastiff or other large and fierce dog, usually kept chainedor tied up.The keeper entered leading his bandog, a large bloodhound, tied in aleam, or band, from which he takes his name. Sir W. Scott."}
+{"CERIA": "Cerium oxide, CeO2, a white infusible substance constitutingabout one per cent of the material of the common incandescent mantle."}
+{"PENSION": "A boarding house or boarding school in France, Belgium,Switzerland, etc."}
+{"ENCUMBERMENT": "Encumbrance. [R.]"}
+{"BANDON": "Disposal; control; license. [Obs.] Rom. of R."}
+{"STATESWOMAN": "A woman concerned in public affairs.A rare stateswoman; I admire her bearing. B. Jonson."}
+{"SPECTROLOGY": "The science of spectrum analysis in any or all of its relationsand applications."}
+{"EPIPOLISM": "See Fluorescence. [R.] Sir J. Herschel."}
+{"CENTROSOME": "A peculiar rounded body lying near the nucleus of a cell. It isregarded as the dynamic element by means of which the machinery ofcell division is organized."}
+{"MICROCRITH": "The weight of the half hydrogen molecule, or of the hydrogenatom, taken as the standard in comparing the atomic weights of theelements; thus, an atom of oxygen weighs sixteen microcriths. SeeCrith. J. P. Cooke."}
+{"HAZELESS": "Destitute of haze. Tyndall."}
+{"CRITHOMANCY": "A kind of divination by means of the dough of the cakes offeredin the ancient sacrifices, and the meal strewed over the victims."}
+{"INAPPREHENSION": "Want of apprehension."}
+{"HARMALINE": "An alkaloid found in the plant Peganum harmala. It formsbitter, yellow salts."}
+{"CORAL-RAG": "Same as Corallian."}
+{"CARBON TRANSMITTER": "A telephone transmitter in which a carbon contact is used."}
+{"ENDOPHRAGMAL": "Of or pertaining to the endophragma."}
+{"IRRECEPTIVE": "Not receiving; incapable of receiving."}
+{"CAMPANERO": "The bellbird of South America. See Bellbird."}
+{"ANAPLASTIC": "Of or pertaining to anaplasty."}
+{"COLLISH": "A tool to polish the edge of a sole. Knight."}
+{"PHYSICOCHEMICAL": "Involving the principles of both physics and chemistry;dependent on, or produced by, the joint action of physical andchemical agencies. Huxley."}
+{"MOTORING": "Act or recreation of riding in or driving a motor car orautomobile."}
+{"SCIATICAL": "Sciatic."}
+{"BLATTERATION": "Blattering."}
+{"ECLECTIC": "One who follows an eclectic method."}
+{"MILFOIL": "A common composite herb (Achillea Millefolium) with whiteflowers and finely dissected leaves; yarrow. Water milfoil (Bot.), anaquatic herb with dissected leaves (Myriophyllum)."}
+{"TRIMELLIC": "Of, pertaining to, or designating, a certain tribasic acid(called also trimellitic acid) metameric with trimesitic acid."}
+{"LEGISLATE": "To make or enact a law or laws.Solon, in legislating for the Athenians, had an idea of a moreperfect constitution than he gave them. Bp. Watson (1805)."}
+{"STEREOGRAPHY": "The art of delineating the forms of solid bodies on a plane; abranch of solid geometry which shows the construction of all solidswhich are regularly defined."}
+{"PLURIES": "A writ issued in the third place, after two former writs havebeen disregarded. Mozley & W."}
+{"BEDLAM": "Belonging to, or fit for, a madhouse. \"The bedlam, brainsickduchess.\" Shak."}
+{"MORPHONOMY": "The laws of organic formation."}
+{"PLUTUS": "The son of Jason and Ceres, and the god of wealth. He wasrepresented as bearing a cornucopia, and as blind, because his giftswere bestowed without discrimination of merit."}
+{"CRIB-BITING": "Same as Cribbing, 4."}
+{"PITHECANTHROPUS": "an animal of this genus. --Pith`e*can\"thrope (#), n. --Pith`e*can\"thro*poid (#), a."}
+{"MEDIA": "pl. of Medium."}
+{"STERCORARIAN": "A Stercoranist."}
+{"MAINLY": "Very strongly; mightily; to a great degree. [Obs.] Bacon. Shak."}
